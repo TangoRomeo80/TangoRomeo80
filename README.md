@@ -29,15 +29,14 @@ Skills: VUE JS / REACT / JS / HTML / CSS/
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/html.png"></code>
   
   
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=TangoRomeo80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TangoRomeo80&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TangoRomeo80&show_icons=true&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TangoRomeo80)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TangoRomeo80&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/TangoRomeo80)  

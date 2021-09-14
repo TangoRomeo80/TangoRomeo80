@@ -1,4 +1,4 @@
-### Hi there 👋, I am Tanzeem Rahat- aka TangoRomeo
+### <img src="assets/img/wave.gif"  width="27" height="27"> &nbsp;Hi there, I am Tanzeem Rahat- aka TangoRomeo
 #### I am a Software Engineer presently completing my Bachelor's program
 ![I am a Software Engineer presently completing my Bachelor's program](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 

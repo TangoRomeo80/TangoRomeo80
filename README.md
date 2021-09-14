@@ -6,7 +6,6 @@
 
 I am a Software Engineer presently completing my Bachelor's program in Computer Science and Software Engineering. I am a student for life and I am still learning everything, every day, everywhere. 
 
-Skills: VUE JS / REACT / JS / HTML / CSS/
 
 - 🔭 I’m currently working on MERN stack 
 - 🌱 I’m currently learning Tensorflow 
@@ -31,7 +30,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS/
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   
   
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangoRomeo80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

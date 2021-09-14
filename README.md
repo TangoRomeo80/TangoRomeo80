@@ -28,15 +28,15 @@ I am a Software Engineer presently completing my Bachelor's program in Computer 
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
   
   
-####🤖 Most used Languages:
+🤖 Most used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangoRomeo80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-####📊 Stats:
+📊 Stats:
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TangoRomeo80&show_icons=true&theme=radical)  
   
- ####🔁 Most used Languages:
+ 🔁 Most used Languages:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TangoRomeo80&theme=radical)  
 

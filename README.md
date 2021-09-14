@@ -1,6 +1,6 @@
 ### <img src="wave.gif"  width="27" height="27"> &nbsp;Hi there, I am Tanzeem Rahat- aka TangoRomeo
 #### I am a Software Engineer presently completing my Bachelor's program
-![I am a Software Engineer presently completing my Bachelor's program](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Software Engineer presently completing my Bachelor's program](banner.png)
 
 I am a Software Engineer presently completing my Bachelor's program in Computer Science and Software Engineering. I am a student for life and I am still learning everything, every day, everywhere. 
 

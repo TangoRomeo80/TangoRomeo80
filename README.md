@@ -36,7 +36,7 @@ I am a Software Engineer presently completing my Bachelor's program in Computer 
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TangoRomeo80&show_icons=true&theme=radical)  
   
- 🔁 Most used Languages:
+🔁 Streak:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TangoRomeo80&theme=radical)  
 

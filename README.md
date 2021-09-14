@@ -11,7 +11,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS/
 - 🔭 I’m currently working on MERN stack 
 - 🌱 I’m currently learning Tensorflow 
 - 👯 I’m looking to collaborate on Machine learning 
-- 📫 How to reach me: tanzeemrahat80@gmail.com 
+
+#### 📫 How to reach me:
+  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/md-tanzeem-rahat-70b894187/)  &nbsp; 
+[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/profile.php?id=100058324819583)  &nbsp; 
+<a href="mailto:tanzeemrahat80@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TangoRomeo80)  

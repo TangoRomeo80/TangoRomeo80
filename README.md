@@ -17,7 +17,7 @@ I am a Software Engineer presently completing my Bachelor's program in Computer 
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/profile.php?id=100058324819583)  &nbsp; 
 <a href="mailto:tanzeemrahat80@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
- #### 👨🏻‍💻 Languages and Tools <br />
+#### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -28,7 +28,7 @@ I am a Software Engineer presently completing my Bachelor's program in Computer 
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
   
   
-  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangoRomeo80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

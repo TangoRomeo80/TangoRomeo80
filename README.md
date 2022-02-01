@@ -7,9 +7,9 @@
 I am a Software Engineer presently completing my Bachelor's program in Computer Science and Software Engineering. I am a student for life and I am still learning everything, every day, everywhere. 
 
 
-- 🔭 I’m currently working on MERN stack 
-- 🌱 I’m currently learning Tensorflow 
-- 👯 I’m looking to collaborate on Machine learning 
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning Solidity and web3.js
+- 👯 I’m looking to collaborate on Machine learning and Blockchain based systems
 
 #### 📫 How to reach me:
   

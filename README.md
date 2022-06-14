@@ -27,7 +27,7 @@ I am a Software Engineer presently completing my Bachelor's program in Computer 
   
 📊 Stats:
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TangoRomeo80&show_icons=true&theme=radical)  
+
   
 🔁 Streak:
 

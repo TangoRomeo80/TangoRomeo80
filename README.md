@@ -23,11 +23,11 @@ I am a Software Engineer presently completing my Bachelor's program in Computer 
   
 🤖 Most used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangoRomeo80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
   
 📊 Stats:
   
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TangoRomeo80&show_icons=true&theme=radical)  
   
 🔁 Streak:
 

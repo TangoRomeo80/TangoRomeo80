@@ -44,4 +44,4 @@
 
 🤖 Trophies:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tangoromeo80" alt="tangoromeo80" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tangoromeo80&theme=onedark" alt="tangoromeo80" /></a> </p>

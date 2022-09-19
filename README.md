@@ -1,7 +1,8 @@
 ![I am a Software Engineer presently completing my Bachelor's program](banner.png)
 
 <h1 align="center">Ahoy 👋 I am Tanzeem Rahat- aka TangoRomeo</h1>
-# 💫 About Me:
+
+## 💫 About Me:
 I am a Software Engineer presently completing my Bachelor's program in Computer Science and Software Engineering. I am a student for life and I am still learning everything, every day, everywhere.<br><br>- 🔭 I’m currently working on **Web Development**<br><br>- 🌱 I’m currently learning **TensorFlow, Solidity and web3.js**<br><br>- 👯 I’m looking to collaborate on **Machine learning and Blockchain related researches**<br><br>- 🤝 I’m looking for help with **Designing blockchain based system**<br><br>- 👨‍💻 All of my projects are available at [https://tanzeemrahat.netlify.app/](https://tanzeemrahat.netlify.app/)<br><br>- 💬 Ask me about **react, node and django**<br><br>- 📫 How to reach me **tanzeemrahat80@gmail.com**
 
 

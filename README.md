@@ -20,16 +20,4 @@ I am a Software Engineer presently completing my Bachelor's program in Computer 
 [![](https://visitcount.itsvg.in/api?id=TangoRomeo80&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
-📊 Stats:
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TangoRomeo80&show_icons=true&theme=radical)  
-  
-🔁 Streak:
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TangoRomeo80&theme=radical)  
-
-![Profile views](https://gpvc.arturio.dev/TangoRomeo80) 
-
-🤖 Trophies:
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tangoromeo80&theme=onedark" alt="tangoromeo80" /></a> </p>

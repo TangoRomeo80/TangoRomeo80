@@ -1,4 +1,4 @@
-![I am a Software Engineer presently completing my Bachelor's program](banner.png)
+<!-- ![I am a Software Engineer presently completing my Bachelor's program](banner.png) -->
 
 <h1 align="center">Ahoy 👋 I am Tanzeem Rahat - aka TangoRomeo</h1>
 

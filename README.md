@@ -1,6 +1,6 @@
 # Hi, I'm Tanzeem Rahat
 
-## Software Engineer and Researcher
+## Software Engineer, Educator and Researcher
 
 I am a software engineer focused on web and native application development. I enjoy building practical software, exploring research ideas, and learning continuously across engineering, AI, and product development.
 
